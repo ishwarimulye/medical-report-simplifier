@@ -3,8 +3,8 @@
 An AI-powered full-stack web application that simplifies medical lab reports into plain language that anyone can understand.
 
 ##  Live Demo
-- Frontend: (add after deployment)
-- Backend API: (add after deployment)
+- Frontend: https://medical-report-simplifier.vercel.app
+- Backend API: https://medical-report-simplifier-api.onrender.com
 
 ##  Tech Stack
 
