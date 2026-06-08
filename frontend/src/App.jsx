@@ -30,7 +30,7 @@ export default function App(){
     formData.append("file", file)
     try {
       const response = await axios.post(
-        "http://127.0.0.1:8000/analyze",
+        "https://medical-report-simplifier-api.onrender.com/analyze",
         formData,
         { headers: { "Content-Type": "multipart/form-data" } }
       )
